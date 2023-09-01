@@ -1,6 +1,6 @@
 # Image-Classification-Using-Transfer-Learning-and-ResNet50
-Readme:
-Do this when you've once created a model, saved it, zipped it, and downloaded it to your system.
+Readme:\n
+Do this when you've once created a model, saved it, zipped it, and downloaded it to your system.\n
 Now we want to use the already saved model.
 1- First upload workspace.zip in colab, unzip it.
 2- Execute the code: model = tf.keras.models.load_model('/content/workspace/saved_model/my_model') model.summary()
